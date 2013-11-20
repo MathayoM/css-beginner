@@ -80,6 +80,20 @@ body {
 
 																				    a:visited {
 																				        color: purple;
-																					}  
+																					}
+																					a:active {
+																					    color: red;
+																					    }
+
+																					    a:hover {
+																					        text-decoration: none;
+																						    color: blue;
+																						        background-color: yellow;
+																							}
+
+																							input:focus, textarea:focus {
+																							    background: #eee;
+																							    }
+
 
 
