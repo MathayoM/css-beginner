@@ -108,9 +108,15 @@ body {
 																				}
 div p { color: red }
 p { color: blue }
-#navigation a {
-    display: block;
-        padding: 20px 10px;
-	}
+#navigation {
+    position: absolute;
+        top: 0;
+	    left: 0;
+	        width: 200px;
+		}
+
+		#content {
+		    margin-left: 200px;
+		    }
 
 
