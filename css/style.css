@@ -106,6 +106,8 @@ body {
 																						    border-color: red green blue yellow;
 																						        margin: 10px 50px;
 																				}
+div p { color: red }
+p { color: blue }
 
 
 
